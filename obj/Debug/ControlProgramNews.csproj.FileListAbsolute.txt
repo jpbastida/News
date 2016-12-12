@@ -1,0 +1,6 @@
+D:\BrainAcademy\TareasInClass\Module2\ControlProgramNews\bin\Debug\ControlProgramNews.exe.config
+D:\BrainAcademy\TareasInClass\Module2\ControlProgramNews\bin\Debug\ControlProgramNews.exe
+D:\BrainAcademy\TareasInClass\Module2\ControlProgramNews\bin\Debug\ControlProgramNews.pdb
+D:\BrainAcademy\TareasInClass\Module2\ControlProgramNews\obj\Debug\ControlProgramNews.csprojResolveAssemblyReference.cache
+D:\BrainAcademy\TareasInClass\Module2\ControlProgramNews\obj\Debug\ControlProgramNews.exe
+D:\BrainAcademy\TareasInClass\Module2\ControlProgramNews\obj\Debug\ControlProgramNews.pdb
